@@ -1,0 +1,118 @@
+{
+  "CMDtools": [
+    {
+      "link": "https://www.npmjs.com/package/listr",
+      "name": "listr",
+      "desc": "Node Package for building progress lists",
+      "tags": ["CMD", "Nodejs", "JavaScript"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/stmux",
+      "name": "stmux",
+      "desc": "Simple Terminal Multiplexing for Node Environments",
+      "tags": ["CMD", "Nodejs", "JavaScript"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/listr",
+      "name": "Enquirer",
+      "desc": "Stylish CLI prompts that are user-friendly, intuitive and easy to create.",
+      "tags": ["CMD", "Nodejs", "JavaScript", "List"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/inquirer",
+      "name": "Inquirer",
+      "desc": "A collection of common interactive command line user interfaces.",
+      "tags": ["CMD", "Nodejs", "JavaScript"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/prompts",
+      "name": "prompts",
+      "desc": "Lightweight, beautiful and user-friendly interactive prompts",
+      "tags": ["CMD", "Nodejs", "JavaScript", "Prompts"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/ora",
+      "name": "Ora",
+      "desc": "Node Package for building Elegant terminal spinner",
+      "tags": ["CMD", "Nodejs", "JavaScript", "Spinners"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/boxen",
+      "name": "Boxen",
+      "desc": "Node Package for creating boxes in the terminal",
+      "tags": ["CMD", "Nodejs", "JavaScript", "CMD UI"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/email-prompt",
+      "name": "email-prompt",
+      "desc": "Node Package for CLI email prompt featuring autocompletion and validation",
+      "tags": ["CMD", "Nodejs", "JavaScript", "CMD Email"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/kleur",
+      "name": "Kleur",
+      "desc": "Node Package for formatting terminal text with ANSI colors",
+      "tags": ["CMD", "Nodejs", "JavaScript", "CMD UI"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/ink",
+      "name": "Ink",
+      "desc": "React for CLIs. Build and test your CLI output using components.",
+      "tags": ["CMD", "Nodejs", "JavaScript"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/arg",
+      "name": "arg",
+      "desc": "command line option parser",
+      "tags": ["CMD", "Nodejs", "JavaScript"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/commander",
+      "name": "Commander",
+      "desc": "The complete solution for node.js command-line interfaces",
+      "tags": ["CMD", "Nodejs", "JavaScript"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/yargs",
+      "name": "yargs",
+      "desc": "Yargs helps you build interactive command line tools, by parsing arguments and generating an elegant user interface",
+      "tags": ["CMD", "Nodejs", "JavaScript"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/configstore",
+      "name": "Configstore",
+      "desc": " Easily load and persist config without having to think about where and how",
+      "tags": ["CMD", "Nodejs", "JavaScript"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/minimist",
+      "name": "minimist",
+      "desc": "This module is the guts of optimist's argument parser without all the fanciful decoration.",
+      "tags": ["CMD", "Nodejs", "JavaScript"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/figlet",
+      "name": "Figlet",
+      "desc": "This project aims to fully implement the FIGfont spec in JavaScript",
+      "tags": ["CMD", "Nodejs", "JavaScript"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/clui",
+      "name": "clui",
+      "desc": "This is a Node.js toolkit for quickly building nice looking command line interfaces which can respond to changing terminal sizes.",
+      "tags": ["CMD", "Nodejs", "JavaScript", "CMD UI"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/clear",
+      "name": "Clear",
+      "desc": "Clear the terminal screen if possible",
+      "tags": ["CMD", "Nodejs", "JavaScript", "CMD UI"]
+    },
+    {
+      "link": "https://www.npmjs.com/package/chalk",
+      "name": "Chalk",
+      "desc": "Terminal string styling done right",
+      "tags": ["CMD", "Nodejs", "JavaScript", "CMD UI"]
+    }
+  ]
+}
